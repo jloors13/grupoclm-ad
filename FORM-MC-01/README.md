@@ -4,21 +4,35 @@
 
 **Tema:** Ecosistema de Sistemas Distribuidos
 
-Este directorio contiene los entregables grupales de la actividad FORM-MC-01.
-
-## FORM-MC-01 — Mapa Conceptual Colaborativo
-
-**Tema:** Ecosistema de Sistemas Distribuidos
-
 **Herramienta:** Miro
 
-**Enlace del mapa conceptual:** 
+## Descripción
+
+Este directorio contiene los entregables grupales de la actividad FORM-MC-01, desarrollada colaborativamente mediante un mapa conceptual sobre el ecosistema de los sistemas distribuidos.
+
+El mapa aborda los siguientes temas:
+
+- Tipos de sistemas distribuidos.
+- Modelos de comunicación.
+- Middleware.
+- Transparencia.
+- Tolerancia a fallos.
+- Teorema CAP.
+
+## Mapa conceptual en Miro
+
+**Enlace al tablero original:**
+
 https://miro.com/app/board/uXjVETF1MVk=/?share_link_id=259702460828
 
-**Contenido:** Tipos de sistemas distribuidos, modelos de comunicación, middleware, transparencia, tolerancia a fallos y teorema CAP.
+El tablero de Miro constituye la fuente editable original del mapa conceptual y permite consultar el trabajo colaborativo.
 
 ## Archivos de entrega
 
-- Mapa conceptual en PDF.
-- Archivo fuente o editable del mapa.
-- Referencias bibliográficas utilizadas.
+- **FORM-MC-01_Mapa_Conceptual.pdf:** versión exportada del mapa conceptual.
+- **referencias.md:** referencias bibliográficas utilizadas en el mapa conceptual, organizadas según el formato IEEE.
+- **README.md:** descripción de la actividad y acceso al tablero original de Miro.
+
+## Trabajo colaborativo
+
+Las investigaciones individuales se desarrollan en las ramas correspondientes a cada integrante y se integran posteriormente en la rama principal del repositorio.
