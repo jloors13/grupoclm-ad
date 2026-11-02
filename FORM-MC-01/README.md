@@ -33,6 +33,3 @@ El tablero de Miro constituye la fuente editable original del mapa conceptual y 
 - **referencias.md:** referencias bibliográficas utilizadas en el mapa conceptual, organizadas según el formato IEEE.
 - **README.md:** descripción de la actividad y acceso al tablero original de Miro.
 
-## Trabajo colaborativo
-
-Las investigaciones individuales se desarrollan en las ramas correspondientes a cada integrante y se integran posteriormente en la rama principal del repositorio.
